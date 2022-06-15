@@ -1,0 +1,23 @@
+.container {
+    width: 800px;
+    height: 550px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 380px;
+}
+
+h2 {
+    text-align: center;
+    padding: 6px;
+    border: 2px black dashed;
+    font-size: 25px;
+}
+
+img {
+    margin: 20px 0 20px 0;
+    width: 700px;
+    height: 230px;
+}
